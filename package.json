@@ -1,0 +1,22 @@
+{
+  "name": "vbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KZTSEC/vbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KZTSEC/vbot/issues"
+  },
+  "homepage": "https://github.com/KZTSEC/vbot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
